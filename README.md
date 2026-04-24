@@ -21,7 +21,6 @@
 ## 🧠 About Me
 
 * 💻 Strong in **Data Structures & Algorithms**
-* 🧠 Solved **250+ LeetCode problems**
 * 🤖 Exploring **Machine Learning, NLP & LLMs**
 * ⚡ Focused on building **efficient & scalable systems**
 * 📈 Consistently leveling up every day
